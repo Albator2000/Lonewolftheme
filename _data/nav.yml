@@ -1,0 +1,29 @@
+# header links
+header:
+  - title: "Lieux et horaires des cours"
+    url: "/lieux/"
+    description: "Lieux et horaires des cours de boxe"
+  - title: "Tarifs"
+    url: "/tarifs/"
+    description: "Tarifs d'incription"
+  - title: "L'Equipe"
+    url: "/lequipe/"
+    description: "Présentation des membres de l'équipe"
+  - title: "Team Building"
+    url: "/teambuilding/"
+    description: "Venez pratiquer la boxe entre collègues"    
+
+# footer links
+footer:
+  - owner: "Mise aux Poings"
+    url: # link if any
+    description: # tool tip for your url
+    bio: "La boxe pour tous" # short bio
+    address: # location
+  - social:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/mise_aux_poings/?hl=fr"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/miseauxpoings/"      
