@@ -26,7 +26,7 @@ Nicolas - BPJEPS en 2021
 
 <!--![Toto](/assets/images/Nicolas_S.jpg)-->
 
-<img src="/assets/images/Nicolas_S.jpg" width="200" height="200" />
+<img src="/assets/images/Nicolas_S1.jpg" width="200" height="150" />
 
 ### Nicolas Trameçon
 
